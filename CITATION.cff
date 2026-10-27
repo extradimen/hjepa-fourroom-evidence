@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this evidence package when using these materials."
+title: "H-JEPA FourRoom auxiliary-mechanism evidence"
+version: 1.0.0
+authors:
+  - family-names: Wang
+    given-names: Jinpeng
+    orcid: "https://orcid.org/0009-0003-7324-2211"
+repository-code: "https://github.com/extradimen/hjepa-fourroom-evidence"

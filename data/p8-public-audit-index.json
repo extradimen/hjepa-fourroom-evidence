@@ -1,0 +1,410 @@
+[
+  {
+    "status": "payload_audit_passed",
+    "arm": "B_to_B",
+    "seed": 37,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "d7423b931650db4727deb377fa168a545152c0a14dc38c2ae27e8f814d4bed81",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 4,
+      "90": 5,
+      "210": 7,
+      "420": 9
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "IDM_to_IDM",
+    "seed": 37,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "e9b6a77005c90f0c122ab811b4459395166951672d3584927c817ddf15259bc4",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 4,
+      "90": 4,
+      "210": 7,
+      "420": 7
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "M1_to_M1",
+    "seed": 37,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "2338ab4657cc748233fa0284fa14caaf901bd468c1070d6809f52e7010d4963c",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 5,
+      "90": 5,
+      "210": 5,
+      "420": 6
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "M2_to_M2",
+    "seed": 37,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "a459d326373660149c996e458a5e334ea98d81b5a6cf128668f892761ff5b279",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 4,
+      "90": 6,
+      "210": 7,
+      "420": 10
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "M3R_to_M3R",
+    "seed": 37,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "8b13b250dc3ed78bab24f70efd573f5b1fca17f03154f50b416213cda410240d",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 3,
+      "90": 4,
+      "210": 7,
+      "420": 9
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "M4_to_M4",
+    "seed": 37,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "246ab747fc84dc692b762f1484fb37529e3f150aa09ea9780eff8a6c0162c3de",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 2,
+      "90": 5,
+      "210": 8,
+      "420": 9
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "B_to_B",
+    "seed": 53,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "8ebeacced2aab1c0d9fde13a048837ec5ade8eba5f2cb8b40a04cb0a99592461",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 4,
+      "90": 4,
+      "210": 5,
+      "420": 5
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "IDM_to_IDM",
+    "seed": 53,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "ac0430bab1db425c9ca2120a29994b7ca17f0a3e25e40a83ed4327f1731ddf7b",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 3,
+      "90": 3,
+      "210": 5,
+      "420": 5
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "M1_to_M1",
+    "seed": 53,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "671e3528f0c210a1ad9ae8d50c65dfe6d720240975bc8cfba946b227f04e7310",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 3,
+      "90": 3,
+      "210": 3,
+      "420": 4
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "M2_to_M2",
+    "seed": 53,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "4a8558698e758a285c893210eab885aae6a066f622e8f077b71913d25b785855",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 1,
+      "90": 2,
+      "210": 2,
+      "420": 6
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "M3R_to_M3R",
+    "seed": 53,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "47ecf0e5e78848532e33a440eac483b0630576dbf973dc0eef973715282d530c",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 4,
+      "90": 6,
+      "210": 6,
+      "420": 6
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "M4_to_M4",
+    "seed": 53,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "796acf09fa259cdd37c2c39555e91e2618a1a8c54053ee4b90b0c498325f326c",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 3,
+      "90": 3,
+      "210": 4,
+      "420": 6
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "B_to_B",
+    "seed": 71,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "e14bd47fe725895c0863e72aa6b64a53d1cbba459db5430055df4d539eae19ab",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 6,
+      "90": 7,
+      "210": 7,
+      "420": 10
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "IDM_to_IDM",
+    "seed": 71,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "049e871473dd410b3aebeef037f5d1001e20091a5c22ec16505159936007e71a",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 4,
+      "90": 6,
+      "210": 7,
+      "420": 10
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "M1_to_M1",
+    "seed": 71,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "509d2940bd389681bb362228a69f58716c1e27357f2988ee3c0dc93bc14e0df7",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 6,
+      "90": 6,
+      "210": 7,
+      "420": 9
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "M2_to_M2",
+    "seed": 71,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "b6a78f03e71f1f8947373ceabf02cd71ab3c287911f280ff53ff3db4d93fb948",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 5,
+      "90": 6,
+      "210": 7,
+      "420": 9
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "M3R_to_M3R",
+    "seed": 71,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "d4b5308276052ada0418716f8b174e08aa51ab9ff894b2e35242f0790a3c17c5",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 4,
+      "90": 4,
+      "210": 4,
+      "420": 4
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "M4_to_M4",
+    "seed": 71,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "f1ae039c6a71fc7b2b94be02528d8b940e30ad0b6b22cd7968e479a3b4d1eda9",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 6,
+      "90": 8,
+      "210": 9,
+      "420": 11
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "B_to_B",
+    "seed": 89,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "8eb56fd2f5592f9153e5c49e422f0443e88e1aff9e4569d32db36404da5b2d2c",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 1,
+      "90": 3,
+      "210": 4,
+      "420": 6
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "IDM_to_IDM",
+    "seed": 89,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "92778f49fb74115f03e3b7799a89c910f715b8756d594de62c5b01bc9a6fb832",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 3,
+      "90": 3,
+      "210": 3,
+      "420": 3
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "M1_to_M1",
+    "seed": 89,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "e90ed64924423b12d50231da36d76232bfeab612f0b8c89fdb1805d8fedf4317",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 5,
+      "90": 7,
+      "210": 7,
+      "420": 9
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "M2_to_M2",
+    "seed": 89,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "3c3ff81f954aeeb0ce5b7be02028953aff85f1cb769090081d947326a1b27d0f",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 3,
+      "90": 4,
+      "210": 6,
+      "420": 9
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "M3R_to_M3R",
+    "seed": 89,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "336e3de5eb62ef3a7df47dd9d98c38645d9aa4b87cec83a65f8248d0b72f5922",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 4,
+      "90": 5,
+      "210": 7,
+      "420": 7
+    }
+  },
+  {
+    "status": "payload_audit_passed",
+    "arm": "M4_to_M4",
+    "seed": 89,
+    "node_os_wait0": true,
+    "guard_os_wait0": true,
+    "native_sha_items": 39,
+    "task_rows_audited": 32,
+    "checkpoint_sha256": "86c7653671ea981f55a5aad206feb1d5f57850fe9438a37a3f089cfcabf2dddf",
+    "task_payload_sha256": "b0cfc773e35612e91b305f76173e223bd2097b7cbe9f52c3f9fb5aa718df4a81",
+    "success_counts_by_threshold": {
+      "50": 2,
+      "90": 4,
+      "210": 6,
+      "420": 10
+    }
+  }
+]

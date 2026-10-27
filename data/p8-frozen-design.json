@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "status": "design_frozen_pending_new_budget_authorization",
+  "question": "Do continuously trained M1, M3-R, M4 replicate their development-set advantages over continuously trained IDM on the never-evaluated P1 sealed FourRoom split?",
+  "scope": "One-time confirmatory evaluation of existing P7 checkpoints; no retraining, checkpoint selection, tuning, or test-driven iteration. M2 and B are secondary controls.",
+  "models": {
+    "arms": [
+      "B_to_B",
+      "M1_to_M1",
+      "M2_to_M2",
+      "M3R_to_M3R",
+      "M4_to_M4",
+      "IDM_to_IDM"
+    ],
+    "seeds": [
+      37,
+      53,
+      71,
+      89
+    ],
+    "count": 24
+  },
+  "evaluation": {
+    "split": "p1_sealed_test",
+    "sealed_dataset_path": "data/p1-fourroom-v1/p1_sealed_test.h5",
+    "sealed_dataset_sha256_from_collection_receipt": "742cc6c5147339e8c17aa97a94140e622344e732bc8482eae9649642d0e82114",
+    "episodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "start_step": 40,
+    "physical_goal_offset": 60,
+    "reset_seed_start": 4000000,
+    "planner_seed": 11023,
+    "solver_steps": 5,
+    "solver_samples": {
+      "level1": 16,
+      "level2": 32
+    },
+    "world_correction": {
+      "min_distractors": 1,
+      "max_distractors": 1
+    },
+    "physical_action_cap": 420,
+    "success_event": "first executed physical step t in 1..420 where native distance_to_target < 16",
+    "task_payload_rule": "Generate once from sealed split; SHA-freeze and reuse exact task payload for all 24 checkpoints; pair on episode index and reset seed. Do not inspect outcomes before all 24 jobs are complete.",
+    "report_thresholds": [
+      50,
+      90,
+      210,
+      420
+    ],
+    "denominator": "All 32 tasks for each checkpoint, including right-censored failures."
+  },
+  "analysis": {
+    "primary_comparisons": [
+      "M1_to_M1 minus IDM_to_IDM",
+      "M3R_to_M3R minus IDM_to_IDM",
+      "M4_to_M4 minus IDM_to_IDM"
+    ],
+    "secondary_comparisons": [
+      "M2_to_M2 minus IDM_to_IDM (branch-data confounded)",
+      "B_to_B minus IDM_to_IDM"
+    ],
+    "unit_of_training_variation": "four training seeds; tasks are paired evaluation episodes, not 128 independent training runs",
+    "report": "Every seed and arm, paired per-seed differences, median and range across seeds, per-task first-hit records; no best-seed selection or universal/significance claim from four seeds.",
+    "timing_claim": "P7 early-versus-late analysis remains development-set evidence only; this P8 study does not test timing.",
+    "m2_claim": "M2 outcome cannot be attributed solely to its mechanism without same-branch-data P7 control."
+  }
+}

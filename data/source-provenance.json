@@ -1,0 +1,14 @@
+[
+  {
+    "project_relative_path": "outputs/p7-design/p7-stability-final-audit-20261022.json",
+    "sha256": "f25a84acbe492a410c7a93cf933d7a29bd81f756715a8ea462a13fa4153eac7c"
+  },
+  {
+    "project_relative_path": "outputs/p8-results/p8-sealed-confirmation-analysis-v1.json",
+    "sha256": "c797f02ac47102944eb82785db4ed3d3273d687a31f70e77058335024b948e4a"
+  },
+  {
+    "project_relative_path": "configs/p8-sealed-test-confirmation-protocol-v1.json",
+    "sha256": "e33be5af15179230a22384949560232feb969323a0e57eaf9418841436fe003b"
+  }
+]

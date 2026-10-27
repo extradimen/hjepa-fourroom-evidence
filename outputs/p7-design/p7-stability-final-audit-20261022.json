@@ -1,0 +1,1178 @@
+{
+  "arms": {
+    "B-to-B": {
+      "50": {
+        "seed_counts": {
+          "37": 3,
+          "53": 6,
+          "71": 3,
+          "89": 4
+        },
+        "median": 3.5,
+        "range": [
+          3,
+          6
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 0,
+          "53": 0,
+          "71": 0,
+          "89": 0
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -2,
+          "53": 1,
+          "71": -1,
+          "89": 0
+        }
+      },
+      "90": {
+        "seed_counts": {
+          "37": 4,
+          "53": 6,
+          "71": 3,
+          "89": 6
+        },
+        "median": 5.0,
+        "range": [
+          3,
+          6
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 0,
+          "53": 0,
+          "71": 0,
+          "89": 0
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -4,
+          "53": -2,
+          "71": -1,
+          "89": 1
+        }
+      },
+      "210": {
+        "seed_counts": {
+          "37": 6,
+          "53": 8,
+          "71": 7,
+          "89": 6
+        },
+        "median": 6.5,
+        "range": [
+          6,
+          8
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 0,
+          "53": 0,
+          "71": 0,
+          "89": 0
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -3,
+          "53": -1,
+          "71": 0,
+          "89": -2
+        }
+      },
+      "420": {
+        "seed_counts": {
+          "37": 6,
+          "53": 8,
+          "71": 9,
+          "89": 7
+        },
+        "median": 7.5,
+        "range": [
+          6,
+          9
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 0,
+          "53": 0,
+          "71": 0,
+          "89": 0
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -3,
+          "53": -1,
+          "71": -1,
+          "89": -1
+        }
+      }
+    },
+    "B-to-M1": {
+      "50": {
+        "seed_counts": {
+          "37": 3,
+          "53": 4,
+          "71": 4,
+          "89": 3
+        },
+        "median": 3.5,
+        "range": [
+          3,
+          4
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 0,
+          "53": -2,
+          "71": 1,
+          "89": -1
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -2,
+          "53": -1,
+          "71": 0,
+          "89": -1
+        }
+      },
+      "90": {
+        "seed_counts": {
+          "37": 3,
+          "53": 7,
+          "71": 4,
+          "89": 5
+        },
+        "median": 4.5,
+        "range": [
+          3,
+          7
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": -1,
+          "53": 1,
+          "71": 1,
+          "89": -1
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -5,
+          "53": -1,
+          "71": 0,
+          "89": 0
+        }
+      },
+      "210": {
+        "seed_counts": {
+          "37": 7,
+          "53": 7,
+          "71": 5,
+          "89": 6
+        },
+        "median": 6.5,
+        "range": [
+          5,
+          7
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 1,
+          "53": -1,
+          "71": -2,
+          "89": 0
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -2,
+          "53": -2,
+          "71": -2,
+          "89": -2
+        }
+      },
+      "420": {
+        "seed_counts": {
+          "37": 8,
+          "53": 8,
+          "71": 10,
+          "89": 6
+        },
+        "median": 8.0,
+        "range": [
+          6,
+          10
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 2,
+          "53": 0,
+          "71": 1,
+          "89": -1
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -1,
+          "53": -1,
+          "71": 0,
+          "89": -2
+        }
+      }
+    },
+    "B-to-M2": {
+      "50": {
+        "seed_counts": {
+          "37": 4,
+          "53": 5,
+          "71": 4,
+          "89": 3
+        },
+        "median": 4.0,
+        "range": [
+          3,
+          5
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 1,
+          "53": -1,
+          "71": 1,
+          "89": -1
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -1,
+          "53": 0,
+          "71": 0,
+          "89": -1
+        }
+      },
+      "90": {
+        "seed_counts": {
+          "37": 6,
+          "53": 5,
+          "71": 4,
+          "89": 4
+        },
+        "median": 4.5,
+        "range": [
+          4,
+          6
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 2,
+          "53": -1,
+          "71": 1,
+          "89": -2
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -2,
+          "53": -3,
+          "71": 0,
+          "89": -1
+        }
+      },
+      "210": {
+        "seed_counts": {
+          "37": 8,
+          "53": 9,
+          "71": 6,
+          "89": 6
+        },
+        "median": 7.0,
+        "range": [
+          6,
+          9
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 2,
+          "53": 1,
+          "71": -1,
+          "89": 0
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -1,
+          "53": 0,
+          "71": -1,
+          "89": -2
+        }
+      },
+      "420": {
+        "seed_counts": {
+          "37": 8,
+          "53": 10,
+          "71": 8,
+          "89": 7
+        },
+        "median": 8.0,
+        "range": [
+          7,
+          10
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 2,
+          "53": 2,
+          "71": -1,
+          "89": 0
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -1,
+          "53": 1,
+          "71": -2,
+          "89": -1
+        }
+      }
+    },
+    "B-to-M3R": {
+      "50": {
+        "seed_counts": {
+          "37": 3,
+          "53": 6,
+          "71": 3,
+          "89": 4
+        },
+        "median": 3.5,
+        "range": [
+          3,
+          6
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 0,
+          "53": 0,
+          "71": 0,
+          "89": 0
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -2,
+          "53": 1,
+          "71": -1,
+          "89": 0
+        }
+      },
+      "90": {
+        "seed_counts": {
+          "37": 5,
+          "53": 6,
+          "71": 4,
+          "89": 6
+        },
+        "median": 5.5,
+        "range": [
+          4,
+          6
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 1,
+          "53": 0,
+          "71": 1,
+          "89": 0
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -3,
+          "53": -2,
+          "71": 0,
+          "89": 1
+        }
+      },
+      "210": {
+        "seed_counts": {
+          "37": 7,
+          "53": 8,
+          "71": 7,
+          "89": 6
+        },
+        "median": 7.0,
+        "range": [
+          6,
+          8
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 1,
+          "53": 0,
+          "71": 0,
+          "89": 0
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -2,
+          "53": -1,
+          "71": 0,
+          "89": -2
+        }
+      },
+      "420": {
+        "seed_counts": {
+          "37": 7,
+          "53": 10,
+          "71": 7,
+          "89": 7
+        },
+        "median": 7.0,
+        "range": [
+          7,
+          10
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 1,
+          "53": 2,
+          "71": -2,
+          "89": 0
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -2,
+          "53": 1,
+          "71": -3,
+          "89": -1
+        }
+      }
+    },
+    "B-to-M4": {
+      "50": {
+        "seed_counts": {
+          "37": 3,
+          "53": 5,
+          "71": 4,
+          "89": 4
+        },
+        "median": 4.0,
+        "range": [
+          3,
+          5
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 0,
+          "53": -1,
+          "71": 1,
+          "89": 0
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -2,
+          "53": 0,
+          "71": 0,
+          "89": 0
+        }
+      },
+      "90": {
+        "seed_counts": {
+          "37": 4,
+          "53": 5,
+          "71": 5,
+          "89": 5
+        },
+        "median": 5.0,
+        "range": [
+          4,
+          5
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 0,
+          "53": -1,
+          "71": 2,
+          "89": -1
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -4,
+          "53": -3,
+          "71": 1,
+          "89": 0
+        }
+      },
+      "210": {
+        "seed_counts": {
+          "37": 5,
+          "53": 6,
+          "71": 7,
+          "89": 9
+        },
+        "median": 6.5,
+        "range": [
+          5,
+          9
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": -1,
+          "53": -2,
+          "71": 0,
+          "89": 3
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -4,
+          "53": -3,
+          "71": 0,
+          "89": 1
+        }
+      },
+      "420": {
+        "seed_counts": {
+          "37": 6,
+          "53": 7,
+          "71": 10,
+          "89": 10
+        },
+        "median": 8.5,
+        "range": [
+          6,
+          10
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 0,
+          "53": -1,
+          "71": 1,
+          "89": 3
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": -3,
+          "53": -2,
+          "71": 0,
+          "89": 2
+        }
+      }
+    },
+    "B-to-IDM": {
+      "50": {
+        "seed_counts": {
+          "37": 5,
+          "53": 5,
+          "71": 4,
+          "89": 4
+        },
+        "median": 4.5,
+        "range": [
+          4,
+          5
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 2,
+          "53": -1,
+          "71": 1,
+          "89": 0
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 0,
+          "53": 0,
+          "71": 0,
+          "89": 0
+        }
+      },
+      "90": {
+        "seed_counts": {
+          "37": 8,
+          "53": 8,
+          "71": 4,
+          "89": 5
+        },
+        "median": 6.5,
+        "range": [
+          4,
+          8
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 4,
+          "53": 2,
+          "71": 1,
+          "89": -1
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 0,
+          "53": 0,
+          "71": 0,
+          "89": 0
+        }
+      },
+      "210": {
+        "seed_counts": {
+          "37": 9,
+          "53": 9,
+          "71": 7,
+          "89": 8
+        },
+        "median": 8.5,
+        "range": [
+          7,
+          9
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 3,
+          "53": 1,
+          "71": 0,
+          "89": 2
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 0,
+          "53": 0,
+          "71": 0,
+          "89": 0
+        }
+      },
+      "420": {
+        "seed_counts": {
+          "37": 9,
+          "53": 9,
+          "71": 10,
+          "89": 8
+        },
+        "median": 9.0,
+        "range": [
+          8,
+          10
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 3,
+          "53": 1,
+          "71": 1,
+          "89": 1
+        },
+        "matched_timing_IDM_arm": "B-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 0,
+          "53": 0,
+          "71": 0,
+          "89": 0
+        }
+      }
+    },
+    "M1-to-M1": {
+      "50": {
+        "seed_counts": {
+          "37": 4,
+          "53": 5,
+          "71": 3,
+          "89": 6
+        },
+        "median": 4.5,
+        "range": [
+          3,
+          6
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 1,
+          "53": -1,
+          "71": 0,
+          "89": 2
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 1,
+          "53": 1,
+          "71": -1,
+          "89": 2
+        }
+      },
+      "90": {
+        "seed_counts": {
+          "37": 4,
+          "53": 5,
+          "71": 4,
+          "89": 7
+        },
+        "median": 4.5,
+        "range": [
+          4,
+          7
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 0,
+          "53": -1,
+          "71": 1,
+          "89": 1
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 0,
+          "53": 0,
+          "71": 0,
+          "89": 3
+        }
+      },
+      "210": {
+        "seed_counts": {
+          "37": 8,
+          "53": 7,
+          "71": 6,
+          "89": 7
+        },
+        "median": 7.0,
+        "range": [
+          6,
+          8
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 2,
+          "53": -1,
+          "71": -1,
+          "89": 1
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 1,
+          "53": 2,
+          "71": 2,
+          "89": 3
+        }
+      },
+      "420": {
+        "seed_counts": {
+          "37": 9,
+          "53": 7,
+          "71": 9,
+          "89": 7
+        },
+        "median": 8.0,
+        "range": [
+          7,
+          9
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 3,
+          "53": -1,
+          "71": 0,
+          "89": 0
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 1,
+          "53": 1,
+          "71": 3,
+          "89": 2
+        }
+      }
+    },
+    "M2-to-M2": {
+      "50": {
+        "seed_counts": {
+          "37": 4,
+          "53": 4,
+          "71": 3,
+          "89": 7
+        },
+        "median": 4.0,
+        "range": [
+          3,
+          7
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 1,
+          "53": -2,
+          "71": 0,
+          "89": 3
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 1,
+          "53": 0,
+          "71": -1,
+          "89": 3
+        }
+      },
+      "90": {
+        "seed_counts": {
+          "37": 5,
+          "53": 4,
+          "71": 5,
+          "89": 7
+        },
+        "median": 5.0,
+        "range": [
+          4,
+          7
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 1,
+          "53": -2,
+          "71": 2,
+          "89": 1
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 1,
+          "53": -1,
+          "71": 1,
+          "89": 3
+        }
+      },
+      "210": {
+        "seed_counts": {
+          "37": 8,
+          "53": 6,
+          "71": 7,
+          "89": 9
+        },
+        "median": 7.5,
+        "range": [
+          6,
+          9
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 2,
+          "53": -2,
+          "71": 0,
+          "89": 3
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 1,
+          "53": 1,
+          "71": 3,
+          "89": 5
+        }
+      },
+      "420": {
+        "seed_counts": {
+          "37": 11,
+          "53": 8,
+          "71": 8,
+          "89": 11
+        },
+        "median": 9.5,
+        "range": [
+          8,
+          11
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 5,
+          "53": 0,
+          "71": -1,
+          "89": 4
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 3,
+          "53": 2,
+          "71": 2,
+          "89": 6
+        }
+      }
+    },
+    "M3R-to-M3R": {
+      "50": {
+        "seed_counts": {
+          "37": 3,
+          "53": 4,
+          "71": 3,
+          "89": 2
+        },
+        "median": 3.0,
+        "range": [
+          2,
+          4
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 0,
+          "53": -2,
+          "71": 0,
+          "89": -2
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 0,
+          "53": 0,
+          "71": -1,
+          "89": -2
+        }
+      },
+      "90": {
+        "seed_counts": {
+          "37": 4,
+          "53": 5,
+          "71": 3,
+          "89": 4
+        },
+        "median": 4.0,
+        "range": [
+          3,
+          5
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 0,
+          "53": -1,
+          "71": 0,
+          "89": -2
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 0,
+          "53": 0,
+          "71": -1,
+          "89": 0
+        }
+      },
+      "210": {
+        "seed_counts": {
+          "37": 9,
+          "53": 7,
+          "71": 6,
+          "89": 6
+        },
+        "median": 6.5,
+        "range": [
+          6,
+          9
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 3,
+          "53": -1,
+          "71": -1,
+          "89": 0
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 2,
+          "53": 2,
+          "71": 2,
+          "89": 2
+        }
+      },
+      "420": {
+        "seed_counts": {
+          "37": 10,
+          "53": 8,
+          "71": 9,
+          "89": 6
+        },
+        "median": 8.5,
+        "range": [
+          6,
+          10
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 4,
+          "53": 0,
+          "71": 0,
+          "89": -1
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 2,
+          "53": 2,
+          "71": 3,
+          "89": 1
+        }
+      }
+    },
+    "M4-to-M4": {
+      "50": {
+        "seed_counts": {
+          "37": 3,
+          "53": 6,
+          "71": 5,
+          "89": 3
+        },
+        "median": 4.0,
+        "range": [
+          3,
+          6
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 0,
+          "53": 0,
+          "71": 2,
+          "89": -1
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 0,
+          "53": 2,
+          "71": 1,
+          "89": -1
+        }
+      },
+      "90": {
+        "seed_counts": {
+          "37": 5,
+          "53": 7,
+          "71": 7,
+          "89": 7
+        },
+        "median": 7.0,
+        "range": [
+          5,
+          7
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 1,
+          "53": 1,
+          "71": 4,
+          "89": 1
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 1,
+          "53": 2,
+          "71": 3,
+          "89": 3
+        }
+      },
+      "210": {
+        "seed_counts": {
+          "37": 7,
+          "53": 8,
+          "71": 9,
+          "89": 8
+        },
+        "median": 8.0,
+        "range": [
+          7,
+          9
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 1,
+          "53": 0,
+          "71": 2,
+          "89": 2
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 0,
+          "53": 3,
+          "71": 5,
+          "89": 4
+        }
+      },
+      "420": {
+        "seed_counts": {
+          "37": 8,
+          "53": 8,
+          "71": 10,
+          "89": 9
+        },
+        "median": 8.5,
+        "range": [
+          8,
+          10
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 2,
+          "53": 0,
+          "71": 1,
+          "89": 2
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 0,
+          "53": 2,
+          "71": 4,
+          "89": 4
+        }
+      }
+    },
+    "IDM-to-IDM": {
+      "50": {
+        "seed_counts": {
+          "37": 3,
+          "53": 4,
+          "71": 4,
+          "89": 4
+        },
+        "median": 4.0,
+        "range": [
+          3,
+          4
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 0,
+          "53": -2,
+          "71": 1,
+          "89": 0
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 0,
+          "53": 0,
+          "71": 0,
+          "89": 0
+        }
+      },
+      "90": {
+        "seed_counts": {
+          "37": 4,
+          "53": 5,
+          "71": 4,
+          "89": 4
+        },
+        "median": 4.0,
+        "range": [
+          4,
+          5
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 0,
+          "53": -1,
+          "71": 1,
+          "89": -2
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 0,
+          "53": 0,
+          "71": 0,
+          "89": 0
+        }
+      },
+      "210": {
+        "seed_counts": {
+          "37": 7,
+          "53": 5,
+          "71": 4,
+          "89": 4
+        },
+        "median": 4.5,
+        "range": [
+          4,
+          7
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 1,
+          "53": -3,
+          "71": -3,
+          "89": -2
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 0,
+          "53": 0,
+          "71": 0,
+          "89": 0
+        }
+      },
+      "420": {
+        "seed_counts": {
+          "37": 8,
+          "53": 6,
+          "71": 6,
+          "89": 5
+        },
+        "median": 6.0,
+        "range": [
+          5,
+          8
+        ],
+        "paired_difference_vs_B_to_B": {
+          "37": 2,
+          "53": -2,
+          "71": -3,
+          "89": -2
+        },
+        "matched_timing_IDM_arm": "IDM-to-IDM",
+        "paired_difference_vs_matched_IDM": {
+          "37": 0,
+          "53": 0,
+          "71": 0,
+          "89": 0
+        }
+      }
+    }
+  },
+  "thresholds": [
+    "50",
+    "90",
+    "210",
+    "420"
+  ],
+  "primary_final_models": 44,
+  "primary_dev_rollouts": 1408
+}
