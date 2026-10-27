@@ -8,7 +8,7 @@ Companion materials for *When Do Auxiliary Mechanisms Help Hierarchical Predicti
 P7 compares 11 training schedules across seeds 37, 53, 71, 89: 44 final checkpoints and 1,408 development rollouts. P8 evaluates six continuous arms across the same four seeds on 32 previously unused tasks each: 24 models, 768 audited rollouts. The endpoint is first physical entry into the target radius within 420 actions. Continuous M4 reaches 36/128 sealed task-seed cases versus IDM 25/128, with seed differences +2, +1, +1, +7. This is a descriptive, task-specific observation, not a significance or universal superiority claim. M1/M3-R do not show a consistent four-seed advantage; M2 changes branch-data exposure. P8 does not test early-versus-late training timing.
 
 ## Reproduce paper figures and tables
-From this repository root, install `requirements-figures.txt`, then run:
+First download and extract [hjepa-fourroom-evidence-v1.0.0.zip](hjepa-fourroom-evidence-v1.0.0.zip). From the extracted package root, install `requirements-figures.txt`, then run:
 
     python scripts/build_manuscript_figures.py
     python scripts/build_manuscript_longtables.py
